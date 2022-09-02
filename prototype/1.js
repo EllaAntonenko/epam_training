@@ -5,4 +5,4 @@ let animal = {
     jumps: true
   };
   cat.proto = animal;
-  console.log(animal)
+  console.log(cat)
