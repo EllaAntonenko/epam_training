@@ -5,6 +5,6 @@ try {
   
   } catch (err) {
   
-    'let must be declared'
+    console.log('let must be declared')
   
   }
