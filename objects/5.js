@@ -1,6 +1,5 @@
 //- Write a function that determines whether a number is prime or not
-function isPrime(n)
-{
+function isPrime(n){
 if (n===1)
   {
     return false;
@@ -18,6 +17,5 @@ if (n===1)
       }
     }
     return true;  
-  }
-}
+    }}
 console.log(isPrime(36));

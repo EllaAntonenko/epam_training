@@ -2,5 +2,6 @@
 
 const myFriends = ['Jane', 'Mary', 'Kate', 'Sam']
 myFriends.forEach(function(elem){
+    myFriends.push()
     console.log('Hello, ' + elem + '!')
 }) 
